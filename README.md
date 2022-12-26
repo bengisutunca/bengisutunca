@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,git,py,firebase,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=swift,git,py,firebase&theme=dark" />
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=bengisutunca&label=Profile%20views&color=0e75b6&style=flat" alt="bengisutunca" /> </p>
   </a>
 </p>
